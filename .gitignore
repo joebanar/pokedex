@@ -1,0 +1,38 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build output
+*.test
+*.out
+
+# Coverage outputs
+coverage.out
+cover.out
+
+# Dependency directories
+vendor/
+
+# Build directories
+bin/
+pkg/
+
+# Go workspace file
+go.work
+
+# Environment files
+.env
+
+# IDE/editor directories
+.vscode/
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
